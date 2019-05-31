@@ -241,6 +241,7 @@ export interface OrderFilledNotification extends BaseNotification {
 export type Notification = CancelOrderNotification | MarketNotification | LimitNotification | OrderFilledNotification;
 
 export enum TokenSymbol {
+    Oxbtc = '0xbtc',
     Weth = 'weth',
     Zrx = 'zrx',
     Dai = 'dai',
