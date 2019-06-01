@@ -47,7 +47,7 @@ export const KNOWN_TOKENS_META_DATA: TokenMetaData[] = [
     },
     {
         decimals: 8,
-        symbol: TokenSymbol.Oxbtc,
+        symbol: TokenSymbol.Oxb,
         name: '0xBitcoin',
         primaryColor: '#ff7423',
         addresses: {
