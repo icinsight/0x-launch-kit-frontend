@@ -234,12 +234,8 @@ const marketFilters: Filter[] = [
         value: null,
     },
     {
-        text: 'ETH',
-        value: TokenSymbol.Weth,
-    },
-    {
-        text: tokenSymbolToDisplayString(TokenSymbol.Dai),
-        value: TokenSymbol.Dai,
+        text: tokenSymbolToDisplayString(TokenSymbol.Oxbtc),
+        value: TokenSymbol.Oxbtc,
     },
 ];
 
